@@ -35,4 +35,37 @@ public class Cliente {
     public String getRUC() {
         return RUC;
     }
+    public void setRUC(String RUC) {
+        this.RUC = RUC;
+    }
+    public String getNombre() {
+        return nombre;
+    }
+    public void setNombre(String nombre) {
+        this.nombre = nombre;
+    }
+    public String getEmail() {
+        return email;
+    }
+    public void setEmail(String email) {
+        this.email = email;
+    }
+    public String getTelefono() {
+        return telefono;
+    }
+    public void setTelefono(String telefono) {
+        this.telefono = telefono;
+    }
+    public Contacto getContacto() {
+        return contacto;
+    }
+    public void setContacto(Contacto contacto) {
+        this.contacto = contacto;
+    }
+    public String getClave() {
+        return clave;
+    }
+    public void setClave(String clave) {
+        this.clave = clave;
+    }
 }

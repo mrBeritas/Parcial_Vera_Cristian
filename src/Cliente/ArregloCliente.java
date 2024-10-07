@@ -5,8 +5,11 @@ import Cliente.Cliente;
 public class ArregloCliente {
     private int indice = 0;
     private Cliente[] clientes;
-    public boolean agregar() {
-        clientes[indice] = new Cliente();
+    public ArregloCliente(int size) {
+        clientes = new Cliente[size];
+    }
+    public boolean agregar(Cliente cliente) {
+        clientes[indice] = cliente;
         indice++;
         return true;
     }
