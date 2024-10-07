@@ -1,3 +1,5 @@
+import java.util.ArrayList;
+
 public class Rubro {
     private String nombre;
     private boolean estado;
@@ -13,4 +15,5 @@ public class Rubro {
     public String getNombre() {
         return this.nombre;
     }
+    private Cliente[] clientes;
 }
