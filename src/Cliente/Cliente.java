@@ -11,10 +11,11 @@ public class Cliente {
     private String nombre;
     private String email;
     private String telefono;
+    // Puede tener 0 o 1 contacto
+    private Contacto contacto;
     private String clave;
     // Cliente.Cliente posee 0 o mas ofertas
     private ArrayList<Oferta> ofertas = new ArrayList<>();
-    private Contacto[] contactos;
     public boolean agregarOferta(Oferta oferta) {
         ofertas.add(oferta);
         return true;
