@@ -1,4 +1,4 @@
-package Contacto;
+package Modelo.Contacto;
 
 public class Contacto {
     private String DNI;

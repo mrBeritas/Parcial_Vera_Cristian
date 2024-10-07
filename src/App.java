@@ -1,5 +1,5 @@
-import Cliente.ArregloCliente;
-import Cliente.Cliente;
+import Modelo.Cliente.ArregloCliente;
+import Modelo.Cliente.Cliente;
 public class App {
     public static void main(String[] args) {
         ArregloCliente arregloCliente = new ArregloCliente(10);

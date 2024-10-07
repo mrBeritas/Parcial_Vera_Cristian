@@ -1,10 +1,9 @@
-package Cliente;
+package Modelo.Cliente;
 
-import java.lang.reflect.Array;
 import java.util.ArrayList;
 
-import Oferta.Oferta;
-import Contacto.Contacto;
+import Modelo.Oferta.Oferta;
+import Modelo.Contacto.Contacto;
 
 public class Cliente {
     private String RUC;
@@ -14,7 +13,7 @@ public class Cliente {
     // Puede tener 0 o 1 contacto
     private Contacto contacto;
     private String clave;
-    // Cliente.Cliente posee 0 o mas ofertas
+    // Modelo.Cliente.Modelo.Cliente posee 0 o mas ofertas
     private ArrayList<Oferta> ofertas = new ArrayList<>();
     public boolean agregarOferta(Oferta oferta) {
         ofertas.add(oferta);

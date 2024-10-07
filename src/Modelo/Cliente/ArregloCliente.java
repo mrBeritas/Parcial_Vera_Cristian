@@ -1,6 +1,4 @@
-package Cliente;
-
-import Cliente.Cliente;
+package Modelo.Cliente;
 
 public class ArregloCliente {
     private int indice = 0;

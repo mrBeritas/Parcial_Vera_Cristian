@@ -1,6 +1,4 @@
-package GradoEstudio;
-
-import GradoEstudio.GradoEstudio;
+package Modelo.GradoEstudio;
 
 public class ArregloGradoEstudio {
     private int indice = 0;

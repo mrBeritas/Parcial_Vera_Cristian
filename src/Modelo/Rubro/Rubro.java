@@ -1,7 +1,6 @@
-package Rubro;
+package Modelo.Rubro;
 
-import Cliente.Cliente;
-import java.util.ArrayList;
+import Modelo.Cliente.Cliente;
 
 public class Rubro {
     private String nombre;

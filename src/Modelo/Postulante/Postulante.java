@@ -1,9 +1,9 @@
-package Postulante;
+package Modelo.Postulante;
 
-import GradoEstudio.GradoEstudio;
-import GradoEstudio.ArregloGradoEstudio;
-import Oferta.Oferta;
-import Postulacion.Postulacion;
+import Modelo.GradoEstudio.GradoEstudio;
+import Modelo.GradoEstudio.ArregloGradoEstudio;
+import Modelo.Oferta.Oferta;
+import Modelo.Postulacion.Postulacion;
 
 import java.util.Date;
 

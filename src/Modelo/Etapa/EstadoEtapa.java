@@ -1,6 +1,4 @@
-package Etapa;
-
-import Etapa.Etapa;
+package Modelo.Etapa;
 
 public class EstadoEtapa {
     private String nombre;

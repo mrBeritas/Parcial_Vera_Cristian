@@ -1,4 +1,4 @@
-package Requisito;
+package Modelo.Requisito;
 
 public class Requisito {
     private int orden;

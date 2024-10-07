@@ -1,8 +1,4 @@
-package Rubro;
-
-import Rubro.Rubro;
-
-import java.util.ArrayList;
+package Modelo.Rubro;
 
 public class ArregloRubro {
     private int indice = 0;

@@ -1,4 +1,4 @@
-package Etapa;
+package Modelo.Etapa;
 
 import java.util.Date;
 

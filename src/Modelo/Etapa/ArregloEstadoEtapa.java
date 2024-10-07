@@ -1,4 +1,4 @@
-package Etapa;
+package Modelo.Etapa;
 
 public class ArregloEstadoEtapa {
     private int indice = 0;

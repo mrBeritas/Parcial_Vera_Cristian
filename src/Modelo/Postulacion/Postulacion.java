@@ -1,7 +1,7 @@
-package Postulacion;
+package Modelo.Postulacion;
 
-import Etapa.Etapa;
-import Oferta.Oferta;
+import Modelo.Etapa.Etapa;
+import Modelo.Oferta.Oferta;
 
 import java.util.Date;
 

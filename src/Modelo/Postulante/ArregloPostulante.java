@@ -1,6 +1,4 @@
-package Postulante;
-
-import Postulante.Postulante;
+package Modelo.Postulante;
 
 public class ArregloPostulante {
     private int indice = 0;
