@@ -1,5 +1,10 @@
+package Oferta;
+
 import java.util.ArrayList;
 import java.util.Date;
+
+import Requisito.Requisito;
+import Postulacion.Postulacion;
 
 public class Oferta {
     private String puesto;

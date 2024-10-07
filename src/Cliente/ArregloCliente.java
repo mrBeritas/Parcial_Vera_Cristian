@@ -1,10 +1,13 @@
-import java.util.ArrayList;
+package Cliente;
+
+import Cliente.Cliente;
 
 public class ArregloCliente {
-    private int indice;
+    private int indice = 0;
     private Cliente[] clientes;
     public boolean agregar() {
-        // Agregar un cliente
+        clientes[indice] = new Cliente();
+        indice++;
         return true;
     }
     public Cliente buscar(String RUC) {

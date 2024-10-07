@@ -1,3 +1,7 @@
+package Postulante;
+
+import Postulante.Postulante;
+
 public class ArregloPostulante {
     private int indice = 0;
     private Postulante[] postulantes;

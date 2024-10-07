@@ -1,3 +1,5 @@
+package Requisito;
+
 public class Requisito {
     private int orden;
     private String descripcion;

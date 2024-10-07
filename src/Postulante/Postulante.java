@@ -1,3 +1,10 @@
+package Postulante;
+
+import GradoEstudio.GradoEstudio;
+import GradoEstudio.ArregloGradoEstudio;
+import Oferta.Oferta;
+import Postulacion.Postulacion;
+
 import java.util.Date;
 
 public class Postulante {

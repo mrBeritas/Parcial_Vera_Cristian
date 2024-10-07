@@ -1,3 +1,7 @@
+package GradoEstudio;
+
+import GradoEstudio.GradoEstudio;
+
 public class ArregloGradoEstudio {
     private int indice = 0;
     private GradoEstudio[] gradosEstudio;

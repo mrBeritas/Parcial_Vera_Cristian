@@ -1,3 +1,8 @@
+package Postulacion;
+
+import Etapa.Etapa;
+import Oferta.Oferta;
+
 import java.util.Date;
 
 public class Postulacion {

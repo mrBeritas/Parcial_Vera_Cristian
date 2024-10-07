@@ -1,3 +1,6 @@
+package Rubro;
+
+import Cliente.Cliente;
 import java.util.ArrayList;
 
 public class Rubro {
